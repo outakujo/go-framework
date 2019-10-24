@@ -5,6 +5,10 @@
   任务调度（定时任务）[gocron](https://github.com/jasonlvhit/gocron)
   
   日志 [logrus](https://github.com/sirupsen/logrus)
+  
+  日志切分 [file-rotatelogs](https://github.com/lestrrat-go/file-rotatelogs)
+  
+  命令行 [cli](https://github.com/urfave/cli)
 
   yaml处理 [yaml](https://github.com/go-yaml/yaml)
   
