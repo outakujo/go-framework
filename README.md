@@ -30,13 +30,13 @@
 
   Gui
   
-  [ui](https://github.com/andlabs/ui) 
-  - Windows: cgo, Windows Vista SP2 with Platform Update and newer
-  - Mac OS X: cgo, Mac OS X 10.8 and newer
-  - other Unixes: cgo, GTK+ 3.10 and newer
-	  - Debian, Ubuntu, etc.: `sudo apt-get install libgtk-3-dev`
-	  - Red Hat/Fedora, etc.: `sudo dnf install gtk3-devel`
+   - [ui](https://github.com/andlabs/ui) 
+  	- Windows: cgo, Windows Vista SP2 with Platform Update and newer
+ 	- Mac OS X: cgo, Mac OS X 10.8 and newer
+  	- other Unixes: cgo, GTK+ 3.10 and newer
+	- Debian, Ubuntu, etc.: `sudo apt-get install libgtk-3-dev`
+	- Red Hat/Fedora, etc.: `sudo dnf install gtk3-devel`
     
-  [walk](https://github.com/lxn/walk) 只限于Windows
+  - [walk](https://github.com/lxn/walk) 只限于Windows
   
-  [qt](https://github.com/therecipe/qt) qt版
+  - [qt](https://github.com/therecipe/qt) qt版
