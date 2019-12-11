@@ -43,5 +43,5 @@
   - [qt](https://github.com/therecipe/qt) qt版
 
   api doc [swag](https://github.com/swaggo/swag)
-	
 
+  uuid [uuid](https://github.com/satori/go.uuid)	
