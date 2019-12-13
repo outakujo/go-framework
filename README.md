@@ -44,4 +44,6 @@
 
   api doc [swag](https://github.com/swaggo/swag)
 
-  uuid [uuid](https://github.com/satori/go.uuid)	
+  uuid [uuid](https://github.com/satori/go.uuid)
+  
+  打包包含静态文件 [go-bindata](https://github.com/jteeuwen/go-bindata)
