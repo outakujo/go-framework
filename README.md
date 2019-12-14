@@ -47,3 +47,5 @@
   uuid [uuid](https://github.com/satori/go.uuid)
   
   打包包含静态文件 [go-bindata](https://github.com/jteeuwen/go-bindata)
+  
+  生成二维码 [go-qrcode](https://github.com/skip2/go-qrcode)
