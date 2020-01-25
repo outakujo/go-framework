@@ -52,3 +52,5 @@
   
   2d game lib [ebiten](https://github.com/hajimehoshi/ebiten)
   
+  验证码 [base64Captcha](https://github.com/mojocn/base64Captcha)
+  
