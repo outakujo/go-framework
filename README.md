@@ -42,7 +42,7 @@
   
   - [qt](https://github.com/therecipe/qt) qt版
   
-  - [wails](https://https://github.com/wailsapp/wails) web页面形式（可使用vue）
+  - [wails](https://github.com/wailsapp/wails) web页面形式(可使用vue)
 
   api doc [swag](https://github.com/swaggo/swag)
 
