@@ -41,6 +41,8 @@
   - [walk](https://github.com/lxn/walk) 只限于Windows
   
   - [qt](https://github.com/therecipe/qt) qt版
+  
+  - [wails](https://https://github.com/wailsapp/wails) web页面形式（可使用vue）
 
   api doc [swag](https://github.com/swaggo/swag)
 
