@@ -58,3 +58,6 @@
   
   go 实时重载 [realize](https://github.com/oxequa/realize)
   
+  run js in go [goja](https://github.com/dop251/goja)
+  
+  
